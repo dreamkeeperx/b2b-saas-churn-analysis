@@ -1,0 +1,16 @@
+customer_id,mrr_segment,monthly_recurring_revenue,risk_score,churn_rate,expected_loss,risk_reasons,recommended_action
+CUST-10336,Mass,79,4,0.4473684210526316,35.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-16991,Mass,79,4,0.4473684210526316,35.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-17793,Mass,79,4,0.4473684210526316,35.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-22344,Mass,79,4,0.4473684210526316,35.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-23426,Mass,79,4,0.4473684210526316,35.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-10059,Economy,129,4,0.4473684210526316,57.71052631578947,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-13142,Economy,129,4,0.4473684210526316,57.71052631578947,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-15076,Economy,129,4,0.4473684210526316,57.71052631578947,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-16893,Economy,129,4,0.4473684210526316,57.71052631578947,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-1834,Economy,129,4,0.4473684210526316,57.71052631578947,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-24633,Business,299,4,0.4473684210526316,133.76315789473685,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-27449,Business,299,4,0.4473684210526316,133.76315789473685,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-32989,Business,299,4,0.4473684210526316,133.76315789473685,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-41653,Business,299,4,0.4473684210526316,133.76315789473685,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-46836,Business,299,4,0.4473684210526316,133.76315789473685,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment

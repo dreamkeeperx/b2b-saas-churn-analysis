@@ -1,0 +1,21 @@
+customer_id,mrr_segment,monthly_recurring_revenue,risk_score,churn_rate,expected_loss,risk_reasons,recommended_action
+CUST-39138,Enterprise,7799,4,0.4473684210526316,3489.0263157894738,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-44183,Enterprise,6871,4,0.4473684210526316,3073.8684210526317,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-22228,Enterprise,6363,4,0.4473684210526316,2846.6052631578946,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-36508,Enterprise,6280,4,0.4473684210526316,2809.4736842105262,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-8916,Enterprise,5970,4,0.4473684210526316,2670.7894736842104,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-36413,Enterprise,5693,4,0.4473684210526316,2546.8684210526317,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-19494,Enterprise,4929,4,0.4473684210526316,2205.0789473684213,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-20276,Enterprise,4122,4,0.4473684210526316,1844.0526315789473,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-2673,Enterprise,2917,4,0.4473684210526316,1304.9736842105262,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-46892,Enterprise,2790,4,0.4473684210526316,1248.157894736842,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-24226,Enterprise,2109,4,0.4473684210526316,943.5,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-45820,Enterprise,1713,4,0.4473684210526316,766.3421052631579,Failed payment; Low feature adoption; Low seat utilization; Many support tickets,Contact the client to resolve the failed payment
+CUST-24747,Enterprise,8491,3,0.0713090757005437,605.4853617733166,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-7211,Enterprise,8464,3,0.0713090757005437,603.5600167294019,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-41188,Enterprise,8460,3,0.0713090757005437,603.2747804265997,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-41697,Enterprise,8434,3,0.0713090757005437,601.4207444583856,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-28411,Enterprise,8401,3,0.0713090757005437,599.0675449602677,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-22849,Enterprise,8380,3,0.0713090757005437,597.5700543705562,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-17060,Enterprise,8359,3,0.0713090757005437,596.0725637808448,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
+CUST-47454,Enterprise,8358,3,0.0713090757005437,596.0012547051443,Low feature adoption; Low seat utilization; Many support tickets,Offer training on key features
